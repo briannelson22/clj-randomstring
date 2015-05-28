@@ -1,2 +1,2 @@
 # clj-randomstring
-Random string generator
+Random string generator written in Clojure
